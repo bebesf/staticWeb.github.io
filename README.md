@@ -1,7 +1,12 @@
 # staticWeb
 #H1
+
 ##H3
+
+
 ####H4
+
+
 ######H6
 Horizontal Rules
 __
@@ -68,6 +73,15 @@ Links
 link text
 
 link with title"title text!"
+## Links
 
-Images
-This is an image
+   [link text](http://dev.nodeca.com)
+   
+   [link with title](http://nodeca.github.io/pica/demo/)"title text!"
+   
+   
+   ## Images
+   
+   ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
