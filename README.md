@@ -1,8 +1,8 @@
 # staticWeb
-H1
-H3
-H4
-H6
+#H1
+##H3
+####H4
+######H6
 Horizontal Rules
 __
 
